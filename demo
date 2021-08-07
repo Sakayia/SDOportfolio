@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title> Babushka </title>
+        <meta name="viewport" content="width=device-width, initial scale=1" />
+        <style> 
+    body {
+    background-image:url('https://cdn.dribbble.com/users/2101653/screenshots/5650189/test_4x.jpg?compress=1&resize=400x300');
+    }
+    </style>
+    </head>
+<body>
+    <header>
+        <nav>
+<h1 style="text-align: center"><i> Babushka</i></h1>
+<p style="float: right">
+    <a href="#"> Home </a> |
+    <a href ="#"> About</a> |
+    <a href="#"> Contact Us</a> |
+    <a href="#"> Terms of Services </a> |
+    <a href="#"> Privacy Policy</a>
+    </p>
+    </nav>
+    </header>
+<p style ="font-size: 16px; color: purple"> We all stan Corpse Husband. Agoraphobic 10/10 </p>
+<main>
+<h2 style="text-align: left; color: #ff00ff"> Attributes</h2>
+<div class="img-with-text">
+<img src="https://i.pinimg.com/564x/91/f6/30/91f6307b9a186f6d8005ef9c64859ae9.jpg" style="float:left" width="600px" height="300px"/>
+</div>
+<!-- <br /> element defines an HTML line break. -->
+<div style="text-align:center; clear:left">
+    <p style="font-size: 11px; color:green;text-align:left"> 
+HTML attributes are found in HTML tags.
+<br> HTML attributes only appear at start tagss, not ending tags <br>
+ Composed of: attribute name, = sign, and a value surrounded by quotation marks
+<a href="https://www.google.com/" target="_blank">Google</a>
+<!-- The target="blank" opens the link in a new tab -->
+</p>
+<h3 style="text-align:left; font-size:20px"> Headings</h3>
+<p style="text-align:left;color: white"> 
+When labelling headers such as "h1 - h6", the headers text get smaller after each corresponding number </p>
+<p style="text-align: left; font-family: Verdana; color:white" >My font-family is Verdana. </p>
+<p style="font-weight:bold"> I am bolded text.</p>
+<!-- HTML Horizontal Rule below -->
+<hr style="width: 50%" color="purple"/>
+<h3 style="text-align: left; color:#87CEFA"><u> Anime List</u></h3>
+<p style="color:#E0FFFF"> 
+<b> Boku no Hero Academia</b>
+<br /> 
+<i> Shakugan No Shana</i>
+<br /> 
+<u> Guilty Crown </u>
+<br /> 
+<code> Shingeki no Kyojin</code>
+<br /> 
+<tt> Izakaya Nobu </tt>
+<br /> 
+<small> Kimetsu no Yaiba </small>
+<br /> 
+<em> Wotakoi no Otaku </em>
+<br /> 
+<strong> Akame ga Kill </strong>
+<br /> 
+<mark> Fruits Basket </mark>
+<br /> 
+<q> Shokugeki No Soma</q>
+<br />
+<s> Kakegurui</s>
+<br />
+</p>
+</div>
+<!-- You can combine two or more elements and that's a mixed format -->
+<!-- HTML Block-Level and Inline Elements
+<h#>, <p> and <div> are block elements= start on new lines-->
+<span style="color:white"> You can go on youtube through</span>
+<a href="https://www.youtube.com/" target="_blank">here.</a>
+<img style="color:white" src="star.png" />
+</main>
+<!-- Comments go here dumbass -->
+<footer style="text-align: center">
+    <h3 style="color: red; font-size: 16px"> <ol> Welcome to my Website! </ol></h3>
+</footer>
+</body>
+</html>
